@@ -7,7 +7,21 @@
 .dice {
   text-align: center;
   display: inline-block;
+}
 
+.button-class {
+  padding-top: 75px;
+}
+
+.roll-button {
+  background-color: #00ADB5;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
 }
 
 body {
